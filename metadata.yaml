@@ -1,0 +1,36 @@
+_repo: The-Rover-Boys-at-Colby-Hall--or-The-Struggles-of-the-Young-Cadets_21894
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21894-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    - Bonehill, Captain Ralph
+    - Steward, Ray M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_bookshelf:
+- School Stories
+- Children's Book Series
+gutenberg_issued: '2007-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military education -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Fiction'
+title: The Rover Boys at Colby Hall; or, The Struggles of the Young Cadets
+url: http://www.gutenberg.org/ebooks/21894
